@@ -36,7 +36,7 @@ Below you can see some key projects and documents.Our full repository list can b
 * English: https://viewedisplay.com
 * Chinese: https://www.chinasunyee.com
 * Wiki: www.display-wiki.com
-* aliexpress: www.aliexpress.com/store/1103793083
+* aliexpress: www.aliexpress.com/store/1103793083 , https://www.aliexpress.com/store/1103785142
 <tr><td>
   <table>
 <!--
